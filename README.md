@@ -19,5 +19,5 @@ This is my emacs config file.
 ~./emacs.d
 	init.el
 	etc
-
+	elpa
 ##バックアップ、ローカル反映方法
