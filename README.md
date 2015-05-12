@@ -16,7 +16,7 @@ This is my emacs config file.
 
 
 ##ファイル構成
-~./emacs.d
+~./emacs.d ¥n
 	init.el
 	etc
 	elpa
