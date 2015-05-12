@@ -16,5 +16,8 @@ This is my emacs config file.
 
 
 ##ファイル構成
+~./emacs.d
+	init.el
+	etc
 
 ##バックアップ、ローカル反映方法
